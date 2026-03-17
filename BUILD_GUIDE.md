@@ -10,7 +10,7 @@
 ### 步骤1：打开项目
 1. 启动Android Studio
 2. 选择 "Open an Existing Project"
-3. 导航到 `c:\Users\23624\OneDrive\桌面\clock` 目录
+3. 导航到项目目录
 4. 点击 "OK"
 
 ### 步骤2：同步Gradle依赖
@@ -51,7 +51,7 @@ gradle wrapper --gradle-version 8.0
 
 ### 步骤2：同步Gradle依赖
 ```bash
-cd c:\Users\23624\OneDrive\桌面\clock
+cd <项目目录>
 gradlew.bat build
 ```
 
